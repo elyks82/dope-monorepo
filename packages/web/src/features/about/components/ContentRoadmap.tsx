@@ -23,7 +23,7 @@ const Container = styled.div`
   * {
     // font-family: Courier, monospace !important;
   }
-  display: flex;
+  display: flex; 
   flex-direction: column;
   justify-content: center;
 `;

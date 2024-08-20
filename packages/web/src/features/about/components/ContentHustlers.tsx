@@ -20,7 +20,7 @@ Hustlers unlock multiple game experiences. Better equipped Hustlers have higher 
         alt="Hustlers are your character in Dope Wars"
       />
       <div
-        css={css`
+        css={css` 
           .markdown {
             padding-bottom: 0px !important;
           }

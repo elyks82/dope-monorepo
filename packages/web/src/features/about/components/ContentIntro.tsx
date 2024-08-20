@@ -23,7 +23,7 @@ All of these NFTs can be traded on the secondary market. Level your character up
 ### Decentralized where it counts
 
 Dope Wars is also an experiment in decentralized project finance and governance using a [DAO](https://ethereum.org/en/dao/). We have no VC funding. All of our treasury's revenue comes from royalties of NFT sales.
-  `;
+  `; 
   return (
     <StackedResponsiveContainer
       css={css`
